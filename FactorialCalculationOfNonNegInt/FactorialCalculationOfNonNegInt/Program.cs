@@ -8,7 +8,6 @@ namespace FactorialCalculationOfNonNegInt
     class Program
     {
 
-
         static long CalculateFactorialOfNonNegativeInteger(long num)
         {
             long factorial = 1; // set it to 1 because 0! and 1! equal 1.
